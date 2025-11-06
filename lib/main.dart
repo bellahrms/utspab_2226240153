@@ -180,7 +180,7 @@ class MainApp extends StatelessWidget {
                       const EdgeInsets.symmetric(vertical: 16, horizontal: 8),
                   child: const Center(
                     child: Text(
-                      '2226240153 Sandy Bella Hartati',
+                      '2226240153 Sandy Bela Hartati',
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
