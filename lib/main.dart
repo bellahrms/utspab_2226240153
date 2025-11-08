@@ -51,7 +51,7 @@ class MainApp extends StatelessWidget {
                   ),
                 ),
 
-                // Informasi utama
+           // Informasi utama
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 16.0),
                   child: Column(
@@ -73,7 +73,7 @@ class MainApp extends StatelessWidget {
                       ),
                     ],
                   ),
-                ),
+                ),     
 
                 const SizedBox(height: 16),
 
